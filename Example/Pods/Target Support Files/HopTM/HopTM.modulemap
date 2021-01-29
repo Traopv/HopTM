@@ -1,0 +1,6 @@
+framework module HopTM {
+  umbrella header "HopTM-umbrella.h"
+
+  export *
+  module * { export * }
+}
